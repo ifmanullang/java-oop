@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70d14c72-d02f-4fad-a37a-f10a994ec557" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainAtlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstarctClass/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstarctClass/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstarctClass/MainAbstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractMethod/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractMethod/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractMethod/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstractMethod/MainAbstractMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/MainCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceClass/HasBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceClass/HasBrandImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceClass/MainInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/BasicLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/MainLogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/MainLogicInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logic01/Logic01Soal01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logic01/Logic01Soal04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logic02/Logic02Soal01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logic02/Logic02Soal02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logic02/Logic02Soal09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/LogicInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal01Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal02Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal03Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal04Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal05Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal06Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal07Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal08Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal09Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic01Impl/Logic01Soal10Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic02Impl/Logic02Soal01Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic02Impl/Logic02Soal02Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic02Impl/Logic02Soal03Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic02Impl/Logic02Soal04Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/logicInterface/logic02Impl/Logic02Soal09Impl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/MainPolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/VicePresident.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superKeyword/MainSuper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superKeyword/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/superKeyword/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variableHidding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variableHidding/MainHidding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variableHidding/Parent.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IqIGjQdksYt4dCPMb3AdoPnWqc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/Codes/Java&Net/tugasLogicJava",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MainLogicInterface">
+    <configuration name="MainAbstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstarctClass.MainAbstract" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="abstarctClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCategory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulation.MainCategory" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceClass.MainInterface" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaceClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainLogicInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logic.MainLogicInterface" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPolymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.MainPolymorphism" />
+      <module name="java-oop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainLogicInterface" />
+        <item itemvalue="Application.MainInterface" />
+        <item itemvalue="Application.MainCategory" />
+        <item itemvalue="Application.MainAbstract" />
+        <item itemvalue="Application.MainPolymorphism" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70d14c72-d02f-4fad-a37a-f10a994ec557" name="Changes" comment="" />
+      <created>1670902599148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670902599148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
